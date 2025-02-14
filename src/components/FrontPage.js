@@ -66,12 +66,12 @@ export default function FrontPage() {
                     </p>
                 </div>
                 <div className="autor text-author absolute bottom-8 left-10 rotate-45">
-                    ~ Manas
+                    ~ Buns
                 </div>
             </div>
             <div className="content-ask text-white z-10 flex flex-col flex-wrap gap-6 justify-center items-center">
                 <div className="text px-8">
-                    <p className='sm:text-5xl text-3xl typing-text text-transparent bg-clip-text bg-gradient-to-br from-[#ff9966] to-[#36d1dc] shadow-pink-800 select-none'>{text}</p>
+                    <p className='sm:text-5xl text-3xl typing-text text-transparent bg-clip-text bg-gradient-to-br from-[#ff9966] to-[#36d1dc] shadow-pink-800 select-none'>We have been together for a long long time but today I have something to say to you...</p>
                 </div>
 
                 <Link to='/envelope'><button id='message-button' className="hidden transition-all duration-200 button button-text shadow-[5px_5px_0px_0px_rgba(109,40,217)] active:translate-x-1 active:translate-y-1 active:shadow-none mt-4 lg:text-xl box-shado w-fit h-fit bg-gradient-to-r from-[#FFECD2] to-[#FCB69F] py-4 px-5 rounded-md">
