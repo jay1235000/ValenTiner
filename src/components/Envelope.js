@@ -72,7 +72,7 @@ export default function Card(props) {
             className="text-1 relative mt-4 mx-11 text-3xl text-right select-none">
             Happy Valentine's Day!
           </div>
-          <div className="relative text-right text-xl font-bold mt-1 mx-14 text-transparent bg-clip-text bg-gradient-to-br from-[#42275a] to-[#753a88] select-none">I have written something for you
+          <div className="relative text-right text-xl font-bold mt-1 mx-14 text-transparent bg-clip-text bg-gradient-to-br from-[#42275a] to-[#753a88] select-none">I love you so much!!!
           </div>
           <div
             className="button-2 w-fit h-fit hidden">
