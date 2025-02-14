@@ -7,7 +7,7 @@ import './styles/frontpage.css';
 
 export default function FrontPage() {
     const [text, setText] = useState('');
-    const sentence = "We have known each other from a long time but today I have something important to tell you...\n";
+    const sentence = "We have been together for a long time but today I have something important to ask you...\n";
     const typingSpeed = 200; // Adjust typing speed here
 
     useEffect(() => {
