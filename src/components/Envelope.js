@@ -82,7 +82,7 @@ export default function Card(props) {
               >
                 <div
                   className="z-0 text-button text-center text-base font-bold text-transparent bg-clip-text bg-gradient-to-br from-[#eecda3] to-[#a8e063] select-none">
-                  A Message
+                  See more
                 </div>
               </button>
             </Link>
